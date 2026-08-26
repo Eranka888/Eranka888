@@ -1,6 +1,6 @@
 # 👋 Привет! Я **Eranka888**
 
-**Senior Software Engineer | AI Enthusiast | Problem Solver**
+** AI Enthusiast | Problem Solver**
 
 ---
 

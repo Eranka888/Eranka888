@@ -1,38 +1,46 @@
-# 👋 Привет! Я **Eranka888**
+# 👋 Елена Маевская
 
-** AI Enthusiast | Problem Solver**
+### Создаю ИИ-ассистентов, ботов, мини-сайты и автоматизированные решения
 
----
+Использую ИИ и современные инструменты разработки, чтобы превращать практические задачи бизнеса в работающие цифровые решения.
 
-## 📊 Статистика
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+Сейчас развиваю навыки создания собственных продуктов: от простых ботов и мини-сайтов до решений с интеграцией нейросетей, API и автоматизацией рабочих процессов.
 
 ---
 
-## 🛠️ Технологии & Инструменты
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicons@latest/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicons@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicons@latest/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicons@latest/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicons@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
-</div>
+## 🛠 Что я создаю
+
+- ИИ-ассистенты и чат-боты
+- Мини-сайты и лендинги
+- Автоматизация рабочих процессов
+- Интеграции с нейросетями и внешними сервисами
+- Инструменты для сбора, обработки и передачи данных
 
 ---
 
-## 🚀 Чем занимаюсь
-- Разработка веб-приложений и API
-- Машинное обучение и ИИ-проекты
-- Автоматизация процессов
-- Оптимизация производительности
+## 🚀 Сейчас в работе
+
+### ИИ-консультант для сообщества ВКонтакте
+
+Бот для автоматизации первого общения с подписчиками сообщества.
+
+**Задачи проекта:**
+- отвечать на типовые вопросы пользователей;
+- работать с собственной базой знаний;
+- выдавать полезные материалы;
+- помогать пользователю получить нужный материал или перейти к следующему шагу;
+- сокращать количество повторяющихся ручных действий владельца сообщества.
+
+**Использую в проекте:** Python, VK API, GigaChat API, Git, GitHub.
 
 ---
 
-## 📁 Проекты
-Посмотреть все проекты: [GitHub](https://github.com/yourusername?tab=repositories)
+## 🔧 Инструменты
+
+`Python` · `Git` · `GitHub` · `VS Code` · `OpenCode` · `GigaChat API` · `VK API`
 
 ---
 
-## 📫 Связь
-- 📧 Email: eranka888@gmail.com
+## 📂 Проекты
+
+Портфолио постепенно пополняется. Здесь будут опубликованы мои законченные проекты с описанием задачи, решения, результата и использованных технологий.
